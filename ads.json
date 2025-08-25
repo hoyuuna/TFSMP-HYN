@@ -1,6 +1,11 @@
 [
   {
-    "message": "QUẢNG CÁO CHỈ VỚI 5000Đ/TUẦN! THAM GIA SERVER DISCORD ĐỂ TÌM HIỂU THÊM.",
+    "message": "QUẢNG CÁO CHỈ VỚI 5.000Đ/TUẦN! THAM GIA SERVER DISCORD ĐỂ TÌM HIỂU THÊM.",
+    "xtra": true,
+    "expired": "2359-31122025"
+  },
+    {
+    "message": "Server bởi HoyuFS. Hãy kí kênh tôi và tôn trọng luật nhé XD",
     "xtra": true,
     "expired": "2359-31122025"
   },
